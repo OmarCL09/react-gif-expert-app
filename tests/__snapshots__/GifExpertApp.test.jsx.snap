@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GifExpertApp Debe estar solamente One Punch Man como default en categories 1`] = `
+<div>
+  <h1>
+    GifExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search some gifs"
+      type="text"
+      value="One Punch Man"
+    />
+  </form>
+  <div
+    class="title-container"
+  >
+    <h3>
+      One Punch Man
+    </h3>
+    <button
+      class="buttonToDelete"
+    >
+      Delete
+    </button>
+  </div>
+  <h2>
+    Loading...
+  </h2>
+  <div
+    class="card-grid"
+  />
+</div>
+`;
+
+exports[`Pruebas en GifExpertApp Se debe agregar una nueva categoria al DOM 1`] = `
+<div>
+  <h1>
+    GifExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search some gifs"
+      type="text"
+      value=""
+    />
+  </form>
+  <div
+    class="title-container"
+  >
+    <h3>
+      Chainsaw man
+    </h3>
+    <button
+      class="buttonToDelete"
+    >
+      Delete
+    </button>
+  </div>
+  <h2>
+    Loading...
+  </h2>
+  <div
+    class="card-grid"
+  />
+  <div
+    class="title-container"
+  >
+    <h3>
+      One Punch Man
+    </h3>
+    <button
+      class="buttonToDelete"
+    >
+      Delete
+    </button>
+  </div>
+  <h2>
+    Loading...
+  </h2>
+  <div
+    class="card-grid"
+  />
+</div>
+`;

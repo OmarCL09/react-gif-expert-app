@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in GifItem component should render a gif 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Chainsaw Man"
+      src="http://locura.com/diablossenorita.jpg"
+    />
+    <p>
+      Chainsaw Man
+    </p>
+  </div>
+</div>
+`;
